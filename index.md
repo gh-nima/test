@@ -1,9 +1,10 @@
 ---
-title: هوش مصنوعی در تجارت الکترونیک شبکه 
+title: هوش مصنوعی در تجارت الکترونیک 
+title: شبمه
 layout: home
 ---
-title: شبکه 
-layout: home
+__test 
+
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
