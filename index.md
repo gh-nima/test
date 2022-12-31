@@ -2,7 +2,11 @@
 title: هوش مصنوعی  
 layout: home
 ---
-
+---
+layout: default
+title: Customization
+nav_order: 4
+---
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
