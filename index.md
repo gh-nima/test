@@ -2,7 +2,7 @@
 layout: home
 title: هوش مصنوعی
 nav_order: 1
-شبکه  
+AI  
 nav_order : 2
 
 ---
