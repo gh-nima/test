@@ -1,5 +1,7 @@
 ---
-title: just the docs project test
+title: هوش مصنوعی در تجارت الکترونیک 
+لینوکس 
+شبکه 
 layout: home
 ---
 
