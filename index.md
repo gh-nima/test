@@ -2,10 +2,7 @@
 title: هوش مصنوعی  
 layout: home
 ---
----
-title: تجارت الکترونیک 
-layout: هوش مصنوعی
----
+
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
