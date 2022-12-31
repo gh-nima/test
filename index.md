@@ -3,6 +3,7 @@ layout: home
 title: هوش مصنوعی
 nav_order: 1
 ---
+---
 layout: network
 title: Customization
 nav_order: 1
