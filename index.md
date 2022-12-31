@@ -1,7 +1,11 @@
 ---
-layout: default
-title: Customization
-nav_order: 4
+layout: home
+title: هوش مصنوعی
+nav_order: 1
+layout: home
+title: شبکه 
+nav_order : 2
+
 ---
 
 
