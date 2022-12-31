@@ -2,6 +2,8 @@
 title: هوش مصنوعی در تجارت الکترونیک شبکه 
 layout: home
 ---
+title: شبکه 
+layout: home
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
