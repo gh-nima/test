@@ -1,8 +1,4 @@
 ---
-title: هوش مصنوعی  
-layout: home
----
----
 layout: default
 title: Customization
 nav_order: 4
