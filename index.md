@@ -1,5 +1,5 @@
 ---
-title: Home
+title: just the docs project test
 layout: home
 ---
 
