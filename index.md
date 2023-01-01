@@ -2,7 +2,7 @@
 layout: home
 title: AI
 ---
-[Link button](http://example.com/){: .btn }
+[steam](http://example.com/){: .btn }
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
