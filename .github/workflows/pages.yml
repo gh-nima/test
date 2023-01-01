@@ -60,8 +60,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
----
-layout: default
-title: Customization
-nav_order: 4
----
+
