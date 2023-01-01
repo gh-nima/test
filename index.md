@@ -2,7 +2,8 @@
 layout: home
 title: AI
 ---
-[steam](https://store.steampowered.com/){: .btn }
+[steam](https://store.steampowered.com/){: .btn } .v-align-bottom
+
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
