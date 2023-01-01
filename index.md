@@ -3,21 +3,11 @@ layout: home
 title: AI
 ---
 [steam](https://store.steampowered.com/){: .btn } 
-
-collections:
-  tests:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
-
-just_the_docs:
-  collections:
-    tests:
-      name: Tests
-    tutorials:
-      name: Tutorials
+---
+layout: default
+title: Customization
+nav_order: 2
+---
 
 
 
