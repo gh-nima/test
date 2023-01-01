@@ -1,5 +1,6 @@
 ---
 layout: home
+title: network 
 title: هوش مصنوعی
 ---
 
