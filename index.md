@@ -3,11 +3,6 @@ layout: home
 title: هوش مصنوعی
 nav_order:1
 ---
----
-layout : home
-title: network
-nav_order:2
----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
