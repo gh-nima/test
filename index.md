@@ -2,7 +2,7 @@
 layout: home
 title: AI
 ---
-[steam](http://example.com/){: .btn }
+[steam](https://store.steampowered.com/){: .btn }
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
