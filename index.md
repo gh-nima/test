@@ -1,7 +1,6 @@
 ---
 layout: home
 title: هوش مصنوعی
-nav_order:1
 ---
 
 
