@@ -1,13 +1,18 @@
 ---
+YAML front matter
+---
+---
 layout: home
 title: AI
+nav_order: 1
 ---
-[steam](https://store.steampowered.com/){: .btn } 
 ---
-layout: home
-title: Network
+layout: AI
+title: network
 nav_order: 2
 ---
+[steam](https://store.steampowered.com/){: .btn } 
+
 
 
 
