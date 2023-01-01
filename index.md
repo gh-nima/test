@@ -2,7 +2,8 @@
 layout: home
 title: AI
 ---
-[steam](https://store.steampowered.com/){: .btn } .v-align-bottom
+[steam](https://store.steampowered.com/){: .btn } 
+.v-align-bottom
 
 
 
