@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Customization
-nav_order: 4
+title: Network
+nav_order: 2
+has_children: true
 ---
