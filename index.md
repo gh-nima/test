@@ -4,8 +4,8 @@ title: AI
 ---
 [steam](https://store.steampowered.com/){: .btn } 
 ---
-layout: default
-title: Customization
+layout: home
+title: Network
 nav_order: 2
 ---
 
